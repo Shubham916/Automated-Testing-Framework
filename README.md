@@ -1,4 +1,4 @@
-# Python Calculator Project
+# Automated Testing Framework
 
 An advanced calculator application built in Python, featuring a graphical user interface (GUI) developed with Tkinter. The calculator supports basic arithmetic operations (addition, subtraction, multiplication, division) and exponentiation.
 
